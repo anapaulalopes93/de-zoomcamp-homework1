@@ -27,7 +27,7 @@ GROUP BY pickup_zone
 ORDER BY total_amount_sum DESC
 LIMIT 1;
 
--- Quatão 6: Zona de descida com a maior gorjeta
+-- Questão 6: Zona de descida com a maior gorjeta
 SELECT
     zdo.Zone AS dropoff_zone,
     MAX(t.tip_amount) AS max_tip
