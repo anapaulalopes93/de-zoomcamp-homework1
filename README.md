@@ -32,6 +32,7 @@ O objetivo deste trabalho não foi apenas responder às questões do homework, m
 ## 📁 Estrutura do repositório
 
 de-zoomcamp-homework1/
+
 ├── docker/ # Evidências do uso de Docker (Q1)
 ├── docker-compose/ # Conceitos de rede entre containers (Q2)
 ├── sql/ # Análise SQL com DuckDB (Q3–Q6)
