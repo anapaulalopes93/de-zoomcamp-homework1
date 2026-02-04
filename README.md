@@ -90,7 +90,7 @@ As consultas responderam às questões:
 - Q5 — zona com maior faturamento em um dia específico
 - Q6 — maior gorjeta por zona de destino
 
-📂 Evidência: pasta `sql/` `https://github.com/anapaulalopes93/de-zoomcamp-homework1/tree/main/sql`
+📂 Evidência: pasta `sql/`
 
 ---
 
